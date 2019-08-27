@@ -1,0 +1,187 @@
+Pakistan
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Shan.txt
+
+nothing added to commit but untracked files present (use "git add"
+
+C:\Users\Fine Traders\Desktop\Git>git add .
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   Shan.txt
+
+
+C:\Users\Fine Traders\Desktop\Git>git commit -m "only practice"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Fine Traders@SHAN-
+')
+
+C:\Users\Fine Traders\Desktop\Git>git config --global user.email "s
+il.com"
+
+C:\Users\Fine Traders\Desktop\Git>git config --global user.name "Sh
+
+C:\Users\Fine Traders\Desktop\Git>git commit -m "only practice"
+[master (root-commit) d6a2d90] only practice
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Shan.txt
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working di
+
+        modified:   Shan.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Fine Traders\Desktop\Git>git add .
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Shan.txt
+
+
+C:\Users\Fine Traders\Desktop\Git>git commit -m "only practice"
+[master c14027b] only practice
+ 1 file changed, 1 insertion(+)
+
+C:\Users\Fine Traders\Desktop\Git>git remote add file https://githu
+heraz/Shan.git
+
+C:\Users\Fine Traders\Desktop\Git>git push file master
+Username for 'https://github.com': albertworks
+Password for 'https://albertworks@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/albertsheraz/S
+
+C:\Users\Fine Traders\Desktop\Git>git remote add file https://githu
+heraz/Shan.git
+fatal: remote file already exists.
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Shan2.txt
+
+nothing added to commit but untracked files present (use "git add"
+
+C:\Users\Fine Traders\Desktop\Git>git add .
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   Shan2.txt
+
+
+C:\Users\Fine Traders\Desktop\Git>git push file master
+Username for 'https://github.com': albertsheraz
+Password for 'https://albertsheraz@github.com':
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 428 bytes | 214.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To https://github.com/albertsheraz/Shan.git
+ * [new branch]      master -> master
+
+C:\Users\Fine Traders\Desktop\Git>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   Shan2.txt
+
+
+C:\Users\Fine Traders\Desktop\Git>git add .
+
+C:\Users\Fine Traders\Desktop\Git>git push https://github.com/alber
+git master
+Username for 'https://github.com': albertsheraz
+Password for 'https://albertsheraz@github.com':
+Everything up-to-date
+
+C:\Users\Fine Traders\Desktop\Git>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
