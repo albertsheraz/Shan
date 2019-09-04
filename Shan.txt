@@ -1,2 +1,4 @@
 what is 1 insertion ,, I have insert one space but not any 
 deletion ,, why bash is showing one deletion ? 
+
+ab to deletion ka ni kehna chahiye us ko.. lets check this..
