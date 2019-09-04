@@ -1,3 +1,2 @@
- vvhfjhf
-
-kuch b likh dala
+what is 1 insertion ,, I have insert one space but not any 
+deletion ,, why bash is showing one deletion ? 
