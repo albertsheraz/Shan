@@ -1,4 +1,5 @@
 4-9-2019
 Declaring function in other function parameter, 
 split word function,
+forEach,
  
