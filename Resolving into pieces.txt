@@ -1,0 +1,8 @@
+give any strings from prompt and find duplicate words from those strings..
+
+
+1.First declare a variable and store the strings in this variable by prompt.
+
+2. Than declare a second variable for those word who will be found and get it from prompt.
+
+3. Than declare a function by the name of findWord
