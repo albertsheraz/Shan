@@ -6,3 +6,10 @@ give any strings from prompt and find duplicate words from those strings..
 2. Than declare a second variable for those word who will be found and get it from prompt.
 
 3. Than declare a function by the name of findWord
+
+
+
+
+array with 5 names,, use forEach ,, print the length of each name
+
+1. prompt the user for 5 names and save them in an array,, may be possible with for loop or forEach function.

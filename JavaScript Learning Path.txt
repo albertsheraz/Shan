@@ -1,0 +1,24 @@
+Three things I have learned.. make the projects, first learn any topic with deep interesting with full of enjoyable 
+concenteration,, than find and search small projects about this topic and practice them with joy and always consider javascript as a tasty zinger burger with full of mayonise,,
+
+no zinger burger can be eaten only in one bite. It is impossible,, even for king kong.. 
+
+top 100 websites of the world written in javascript analyze
+
+
+
+
+
+JavaScript: Advanced JavaScript Coding From The Ground Up (DIY JavaScript Book 3)
+
+Introduction to the DOM
+
+Finding and changing elements on the page using the DOM
+
+Working with cookies
+
+The window object
+
+Timers
+
+Developer best practices

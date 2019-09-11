@@ -8,3 +8,6 @@ what is perameter
 indexof function
 to lowercase property
  
+pure functions
+name is reserve keyword of javaScript
+console.timer
