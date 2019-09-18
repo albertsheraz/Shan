@@ -13,3 +13,30 @@ give any strings from prompt and find duplicate words from those strings..
 array with 5 names,, use forEach ,, print the length of each name
 
 1. prompt the user for 5 names and save them in an array,, may be possible with for loop or forEach function.
+
+
+
+Factorial assignment:
+
+Prompt the number from the user with help of +prompt.
+
+
+
+Reverse Loop:
+Take 2 prompts from the user with plus sign before prompt. One for loop starting number and the second for loop ending number.
+
+for(firstNumber; firstNumber >= secondNumber; firstNumber--){
+	console.log(firstNumber);
+}
+
+
+Break Loop:
+for(let a = 0; a <= 0; a++){
+qWord = prompt("Please enter the correct word");
+if(qWord == 'q' || qWord == 'Q'){
+	break;
+}
+else{
+continue;
+}
+}

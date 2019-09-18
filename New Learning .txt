@@ -1,2 +1,7 @@
 Download tag in anchor tag
-Types of Navigation Bars and tags and properties
+Types of Navigation Bars and tags and properties,,
+float bottom , up, right , left is helpful to drawing navigation bar..
+background size property: cover for 1 pic cover all background, contain for small grid type pics at all background.
+
+in girl John Doe example, I learn about color combination and text positioning,, 
+
